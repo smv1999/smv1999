@@ -4,7 +4,7 @@
 **smv1999/smv1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- ![alt text](https://raw.githubusercontent.com/smv1999/CompetitiveProgrammingQuestionBank/master/General%20Questions/christmas_tree.png)
+ ![alt text](https://raw.githubusercontent.com/smv1999/smv1999/master/banner_image.jpg)
 
 
 - 🔭 I’m currently working on Mobile Application Development
