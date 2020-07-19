@@ -12,7 +12,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 ⚙️ Filled with the potential of converting ideas into working products.\
 ✔ Interested in the field of Artificial Intelligence and Data Science.\
 🔭 I’m currently working on Mobile Application Development\
-📫 How to reach me: Connect with me on LinkedIn : https://www.linkedin.com/in/vaidhyanathansm/ \
+📫 How to reach me: Connect with me on LinkedIn : https://www.linkedin.com/in/vaidhyanathansm/ 
 
 
 [![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight)](https://github.com/smv1999/github-readme-stats)
