@@ -3,6 +3,10 @@
 -->
 
  ![alt text](https://raw.githubusercontent.com/smv1999/smv1999/master/banner_image.jpg)
+ <img align='right' src="https://raw.githubusercontent.com/smv1999/smv1999/master/profile_image1.jpg" width="230" />
+
+
+
 
 I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor's Degree in Computer Science and Engineering.
 
@@ -16,6 +20,13 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 
 [![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight)](https://github.com/smv1999/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
+<a href="mailto:ashutoshhathidara98@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
 
 
