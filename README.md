@@ -3,11 +3,7 @@
 -->
 
  ![alt text](https://raw.githubusercontent.com/smv1999/smv1999/master/banner_image.jpg)
- <a href="https://www.linkedin.com/in/vaidhyanathansm/"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/smv1999"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/github-logo.png" width="40" /></a>
-<a href="mailto:vaidhyanathan.sm@gmail.com"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/google-plus.png" width="40" /></a>
-<a href="https://www.instagram.com/vaidhyanathan.sm"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/instagram.png" width="40" /></a>
-<a href="https://play.google.com/store/apps/developer?id=Programmers+Gateway"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/play-store.png" width="40" /></a>
+ 
  <img align='right' src="https://raw.githubusercontent.com/smv1999/smv1999/master/profile_image1.jpg" width="230" />
 
 
@@ -25,7 +21,11 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 [![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight)](https://github.com/smv1999/github-readme-stats)
 
-
+<a href="https://www.linkedin.com/in/vaidhyanathansm/"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/linkedin.png" width="40" /></a>
+<a href="https://github.com/smv1999"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/github-logo.png" width="40" /></a>
+<a href="mailto:vaidhyanathan.sm@gmail.com"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/google-plus.png" width="40" /></a>
+<a href="https://www.instagram.com/vaidhyanathan.sm"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/instagram.png" width="40" /></a>
+<a href="https://play.google.com/store/apps/developer?id=Programmers+Gateway"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/play-store.png" width="40" /></a>
 
 
 
