@@ -11,14 +11,8 @@
 
 I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor's Degree in Computer Science and Engineering.
 
-<a href="https://sourcerer.io/smv1999"><img src="https://img.shields.io/badge/HTML-522%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/smv1999"><img src="https://img.shields.io/badge/Python-193%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/smv1999"><img src="https://img.shields.io/badge/C++-55%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/smv1999"><img src="https://img.shields.io/badge/JavaScript-45%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/smv1999"><img src="https://img.shields.io/badge/C-43%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/smv1999"><img src="https://img.shields.io/badge/PHP-29%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/smv1999"><img src="https://img.shields.io/badge/Java-18%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/smv1999"><img src="https://img.shields.io/badge/CSS-12%20commits-orange.svg" alt=""></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smv1999)](https://github.com/smv1999/github-readme-stats)
+
 
 
 💻 Skilled in Python(Programming Language), Android Application Development, C/C++, Flask and Java .\
