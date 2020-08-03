@@ -11,6 +11,7 @@
 
 I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor's Degree in Computer Science and Engineering.
 
+[![Followers](https://img.shields.io/github/followers/smv1999?style=social)](https://github.com/smv1999/followers)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smv1999)](https://github.com/smv1999/github-readme-stats)
 
 
