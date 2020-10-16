@@ -21,7 +21,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 📱 Experienced Android Developer with 10 apps successfully published on to the Google Play Store.\
 ⚙️ Filled with the potential of converting ideas into working products.\
 ✔ Interested in the field of Artificial Intelligence and Data Science.\
-🔭 I’m currently working on Mobile Application Development (Flutter) and Machine Learning\
+🔭 I’m currently working on Mobile Application Development (Flutter) and Machine Learning and learning about Docker\
 📫 How to reach me: Visit my Website : <a href="http://vaidhyanathansm.tech/">Vaidhyanathan S M</a>
 
 
