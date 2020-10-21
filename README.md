@@ -43,10 +43,10 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="https://play.google.com/store/apps/developer?id=Programmers+Gateway"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/play-store.png" width="40" /></a>
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
 
 [linkedin]: https://www.linkedin.com/in/vaidhyanathansm/
 [website]: http://smv1999.github.io/
 [instagram]: https://www.instagram.com/vaidhyanathan.sm/
-
+[playstore]: https://play.google.com/store/apps/developer?id=Programmers+Gateway
 
