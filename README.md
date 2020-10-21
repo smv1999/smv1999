@@ -40,10 +40,13 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 - [How to Build Intro Slider for your App](https://medium.com/@vaidhyanathan.sm/how-to-build-intro-slider-for-your-app-1dfd55e82b17?source=rss-c38e7450a841------2)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://www.linkedin.com/in/vaidhyanathansm/"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/linkedin.png" width="40" /></a>
-<a href="mailto:vaidhyanathan.sm@gmail.com"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/google-plus.png" width="40" /></a>
-<a href="https://www.instagram.com/vaidhyanathan.sm"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/instagram.png" width="40" /></a>
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <a href="https://play.google.com/store/apps/developer?id=Programmers+Gateway"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/play-store.png" width="40" /></a>
 
+[linkedin]: https://www.linkedin.com/in/vaidhyanathansm/
+[website]: http://smv1999.github.io/
+[instagram]: https://www.instagram.com/vaidhyanathan.sm/
 
 
