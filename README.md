@@ -27,7 +27,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 [![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/smv1999/github-readme-stats)
 
-## My Technical Blog Posts
+## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Linear Data Structures — Doubly Linked Lists](https://medium.com/@vaidhyanathan.sm/linear-data-structures-doubly-linked-lists-4d50d68435b0?source=rss-c38e7450a841------2)
 - [Linear Data Structures — Linked Lists](https://medium.com/@vaidhyanathan.sm/linear-data-structures-linked-lists-726fd0718a0?source=rss-c38e7450a841------2)
