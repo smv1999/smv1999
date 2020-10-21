@@ -34,6 +34,10 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 - [All you need to know about Pointers-Part-2](https://medium.com/@vaidhyanathan.sm/all-you-need-to-know-about-pointers-part-2-b6153ed93fe?source=rss-c38e7450a841------2)
 - [All you need to know about Pointers -Part-1](https://medium.com/@vaidhyanathan.sm/all-you-need-to-know-about-pointers-part-1-1470d2d24d78?source=rss-c38e7450a841------2)
 - [Projects Vs Competitive Programming](https://medium.com/@vaidhyanathan.sm/projects-vs-competitive-programming-f0c997486aeb?source=rss-c38e7450a841------2)
+- [How to Create Animations and Transitions for your Android App](https://medium.com/@vaidhyanathan.sm/how-to-create-animations-and-transitions-for-your-android-app-2bdd31e533a3?source=rss-c38e7450a841------2)
+- [How to Create Dark theme in Android](https://medium.com/@vaidhyanathan.sm/how-to-create-dark-theme-in-android-55a84c9a3caa?source=rss-c38e7450a841------2)
+- [How to Create Custom Alert Dialog in Android](https://medium.com/@vaidhyanathan.sm/how-to-create-custom-alert-dialog-in-android-5ec6c350447a?source=rss-c38e7450a841------2)
+- [How to Build Intro Slider for your App](https://medium.com/@vaidhyanathan.sm/how-to-build-intro-slider-for-your-app-1dfd55e82b17?source=rss-c38e7450a841------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://www.linkedin.com/in/vaidhyanathansm/"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/logos/linkedin.png" width="40" /></a>
