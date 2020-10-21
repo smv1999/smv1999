@@ -25,7 +25,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 📫 How to reach me: Visit my Website : <a href="http://vaidhyanathansm.tech/">Vaidhyanathan S M</a>
 
 
-[![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight)](https://github.com/smv1999/github-readme-stats)
+[![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/smv1999/github-readme-stats)
 
 # My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
