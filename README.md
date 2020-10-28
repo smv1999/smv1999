@@ -29,6 +29,9 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 [![GitHub metrics](https://metrics.lecoq.io/smv1999?habits.from=100&music.mode=playlist)](https://github.com/lowlighter/metrics)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=smv1999)  
+
+
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [My Journey as a Computer Science Engineer](https://medium.com/@vaidhyanathansm/my-journey-as-a-computer-science-engineer-79348d3b6a22?source=rss-c38e7450a841------2)
