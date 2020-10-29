@@ -4,7 +4,7 @@
 
  ![alt text](https://raw.githubusercontent.com/smv1999/smv1999/master/banner_image.jpg)
  
- <img align='right' src="https://raw.githubusercontent.com/smv1999/smv1999/master/profile_image1.jpg" width="230" />
+ <img align='right' src="https://raw.githubusercontent.com/smv1999/smv1999/master/profile_image1.jpeg" width="230" />
 
 
 
