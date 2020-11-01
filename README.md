@@ -34,7 +34,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Journey as a Computer Science Engineer](https://medium.com/@vaidhyanathansm/my-journey-as-a-computer-science-engineer-79348d3b6a22?source=rss-c38e7450a841------2)
+- [My Journey as a Computer Science Engineer](https://blog.usejournal.com/my-journey-as-a-computer-science-engineer-79348d3b6a22?source=rss-c38e7450a841------2)
 - [Linear Data Structures — Doubly Linked Lists](https://medium.com/@vaidhyanathansm/linear-data-structures-doubly-linked-lists-4d50d68435b0?source=rss-c38e7450a841------2)
 - [Linear Data Structures — Linked Lists](https://medium.com/@vaidhyanathansm/linear-data-structures-linked-lists-726fd0718a0?source=rss-c38e7450a841------2)
 - [All you need to know about Pointers-Part-2](https://medium.com/@vaidhyanathansm/all-you-need-to-know-about-pointers-part-2-b6153ed93fe?source=rss-c38e7450a841------2)
