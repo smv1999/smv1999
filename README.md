@@ -27,8 +27,6 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 [![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/smv1999/github-readme-stats)
 
-[![GitHub metrics](https://metrics.lecoq.io/smv1999?habits.from=100&music.mode=playlist)](https://github.com/lowlighter/metrics)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=smv1999)  
 
 
