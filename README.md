@@ -32,7 +32,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tree Data Structure](https://medium.com/@vaidhyanathansm/tree-data-structure-ce938cf157e?source=rss-c38e7450a841------2)
+- [Tree Data Structure](https://medium.com/nerd-for-tech/tree-data-structure-ce938cf157e?source=rss-c38e7450a841------2)
 - [My Journey as a Computer Science Engineer](https://blog.usejournal.com/my-journey-as-a-computer-science-engineer-79348d3b6a22?source=rss-c38e7450a841------2)
 - [Linear Data Structures — Doubly Linked Lists](https://medium.com/@vaidhyanathansm/linear-data-structures-doubly-linked-lists-4d50d68435b0?source=rss-c38e7450a841------2)
 - [Linear Data Structures — Linked Lists](https://medium.com/@vaidhyanathansm/linear-data-structures-linked-lists-726fd0718a0?source=rss-c38e7450a841------2)
