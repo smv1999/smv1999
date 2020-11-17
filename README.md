@@ -40,7 +40,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 - [All you need to know about Pointers -Part-1](https://medium.com/@vaidhyanathansm/all-you-need-to-know-about-pointers-part-1-1470d2d24d78?source=rss-c38e7450a841------2)
 - [Projects Vs Competitive Programming](https://medium.com/@vaidhyanathansm/projects-vs-competitive-programming-f0c997486aeb?source=rss-c38e7450a841------2)
 - [How to Create Animations and Transitions for your Android App](https://medium.com/@vaidhyanathansm/how-to-create-animations-and-transitions-for-your-android-app-2bdd31e533a3?source=rss-c38e7450a841------2)
-- [How to Create Dark theme in Android](https://medium.com/@vaidhyanathansm/how-to-create-dark-theme-in-android-55a84c9a3caa?source=rss-c38e7450a841------2)
+- [How to Create Dark theme in Android](https://medium.com/nerd-for-tech/how-to-create-dark-theme-in-android-55a84c9a3caa?source=rss-c38e7450a841------2)
 - [How to Create Custom Alert Dialog in Android](https://medium.com/@vaidhyanathansm/how-to-create-custom-alert-dialog-in-android-5ec6c350447a?source=rss-c38e7450a841------2)
 <!-- BLOG-POST-LIST:END -->
 
