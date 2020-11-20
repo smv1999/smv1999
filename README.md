@@ -4,10 +4,6 @@
 
  ![alt text](https://raw.githubusercontent.com/smv1999/smv1999/master/banner_image.jpg)
  
- <img align='right' src="https://raw.githubusercontent.com/smv1999/smv1999/master/profile_image1.jpg" width="230" />
-
-
-
 
 I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor's Degree in Computer Science and Engineering.
 
