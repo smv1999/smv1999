@@ -9,6 +9,13 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 [![Followers](https://img.shields.io/github/followers/smv1999?style=social)](https://github.com/smv1999/followers) <br><br>
 ![](https://komarev.com/ghpvc/?username=smv1999) <br><br>
+
+<p align="left">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+ </p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smv1999&langs_count=8&layout=compact)](https://github.com/smv1999/github-readme-stats)
 
 
@@ -41,10 +48,10 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=".com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
 
 [linkedin]: https://www.linkedin.com/in/vaidhyanathansm/
 [website]: http://smv1999.github.io/
