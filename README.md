@@ -67,3 +67,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 [twitter]: https://twitter.com/itssmv1999
 [playstore]: https://play.google.com/store/apps/developer?id=Programmers+Gateway
 
+<p align="center">
+ Show some ❤️ by starring some of the repositories!
+</p>
+
