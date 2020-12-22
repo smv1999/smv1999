@@ -31,7 +31,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 📱 Experienced Android Developer with 9 apps successfully published on to the [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway).\
 ⚙️ Filled with the potential of converting ideas into working products.\
 ✔ Interested in the field of Artificial Intelligence and Data Science.\
-🔭 I’m currently working on Mobile Application Development (Flutter) and Machine Learning and learning about Docker\
+🔭 I’m currently working on a Flutter project and learning about Docker\
 📫 How to reach me: Visit my Website : <a href="http://vaidhyanathansm.tech/">Vaidhyanathan S M</a>
 
 
@@ -58,10 +58,12 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=".com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
 
 [linkedin]: https://www.linkedin.com/in/vaidhyanathansm/
 [website]: http://smv1999.github.io/
 [instagram]: https://www.instagram.com/vaidhyanathan.sm/
+[twitter]: https://twitter.com/itssmv1999
 [playstore]: https://play.google.com/store/apps/developer?id=Programmers+Gateway
 
