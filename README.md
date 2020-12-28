@@ -10,6 +10,13 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 ![](https://komarev.com/ghpvc/?username=smv1999) <br><br>
 
+💻 Skilled in Python(Programming Language), Android Application Development, C/C++, Flask and Java .\
+📱 Experienced Android Developer with 9 apps successfully published on to the [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway).\
+⚙️ Filled with the potential of converting ideas into working products.\
+✔ Interested in the field of Artificial Intelligence and Data Science.\
+🔭 I’m currently working on a Flutter project and learning about Docker\
+📫 How to reach me: Visit my Website : <a href="http://vaidhyanathansm.tech/">Vaidhyanathan S M</a>
+
 ### Technical Skills
 
 <p align="left">
@@ -25,14 +32,6 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> 
  </p>
-
-
-💻 Skilled in Python(Programming Language), Android Application Development, C/C++, Flask and Java .\
-📱 Experienced Android Developer with 9 apps successfully published on to the [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway).\
-⚙️ Filled with the potential of converting ideas into working products.\
-✔ Interested in the field of Artificial Intelligence and Data Science.\
-🔭 I’m currently working on a Flutter project and learning about Docker\
-📫 How to reach me: Visit my Website : <a href="http://vaidhyanathansm.tech/">Vaidhyanathan S M</a>
 
 
 [![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/smv1999/github-readme-stats)
