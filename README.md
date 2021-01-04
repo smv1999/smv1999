@@ -41,6 +41,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Testing](https://medium.com/nerd-for-tech/software-testing-74d197498082?source=rss-c38e7450a841------2)
 - [Software Development Life Cycle](https://medium.com/nerd-for-tech/software-development-life-cycle-cde7f069d5f3?source=rss-c38e7450a841------2)
 - [Tree Data Structure](https://medium.com/nerd-for-tech/tree-data-structure-ce938cf157e?source=rss-c38e7450a841------2)
 - [My Journey as a Computer Science Engineer](https://medium.com/fnplus/my-journey-as-a-computer-science-engineer-79348d3b6a22?source=rss-c38e7450a841------2)
@@ -50,7 +51,6 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 - [All you need to know about Pointers -Part-1](https://medium.com/nerd-for-tech/all-you-need-to-know-about-pointers-part-1-1470d2d24d78?source=rss-c38e7450a841------2)
 - [Projects Vs Competitive Programming](https://medium.com/nerd-for-tech/projects-vs-competitive-programming-f0c997486aeb?source=rss-c38e7450a841------2)
 - [How to Create Animations and Transitions for your Android App](https://medium.com/nerd-for-tech/how-to-create-animations-and-transitions-for-your-android-app-2bdd31e533a3?source=rss-c38e7450a841------2)
-- [How to Create Dark theme in Android](https://medium.com/nerd-for-tech/how-to-create-dark-theme-in-android-55a84c9a3caa?source=rss-c38e7450a841------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
