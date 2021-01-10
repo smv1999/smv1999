@@ -19,7 +19,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 ### Technical Skills
 
-<p align="left">
+<p align="center">
  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -32,7 +32,6 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> 
  </p>
-
 
 [![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/smv1999/github-readme-stats)
 
@@ -52,6 +51,8 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 - [Projects Vs Competitive Programming](https://medium.com/nerd-for-tech/projects-vs-competitive-programming-f0c997486aeb?source=rss-c38e7450a841------2)
 - [How to Create Animations and Transitions for your Android App](https://medium.com/nerd-for-tech/how-to-create-animations-and-transitions-for-your-android-app-2bdd31e533a3?source=rss-c38e7450a841------2)
 <!-- BLOG-POST-LIST:END -->
+
+![trophies](https://github-profile-trophy.vercel.app/?username=smv1999)
 
 <p align="center">
  Show some ❤️ by starring some of the repositories!
