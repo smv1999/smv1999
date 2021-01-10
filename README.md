@@ -52,7 +52,9 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 - [How to Create Animations and Transitions for your Android App](https://medium.com/nerd-for-tech/how-to-create-animations-and-transitions-for-your-android-app-2bdd31e533a3?source=rss-c38e7450a841------2)
 <!-- BLOG-POST-LIST:END -->
 
-![trophies](https://github-profile-trophy.vercel.app/?username=smv1999)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=smv1999" alt="trophies" />
+</p>
 
 <p align="center">
  Show some ❤️ by starring some of the repositories!
