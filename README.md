@@ -35,8 +35,6 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 [![Vaidhyanathan's github stats](https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/smv1999/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=smv1999)  
-
 
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -56,9 +54,15 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 <img src="https://github-profile-trophy.vercel.app/?username=smv1999&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
+
+<p align=center >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smv1999" /> |
+</p>
+
 <p align="center">
  Show some ❤️ by starring some of the repositories!
 </p>
+
 
 ## Connect with me
 
