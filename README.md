@@ -53,7 +53,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=smv1999" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=smv1999&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 <p align="center">
