@@ -61,17 +61,13 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 </p>
 
 ## Connect with me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=".com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
 
-[linkedin]: https://www.linkedin.com/in/vaidhyanathansm/
-[website]: http://smv1999.github.io/
-[instagram]: https://www.instagram.com/vaidhyanathan.sm/
-[twitter]: https://twitter.com/itssmv1999
-[playstore]: https://play.google.com/store/apps/developer?id=Programmers+Gateway
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vaidhyanathansm/)
+[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://vaidhyanathansm.tech/Resume.pdf)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vaidhyanathan.sm/)
+[<img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/itssmv1999)
+[<img src="https://img.shields.io/badge/google%20play-%230077B5.svg?&style=for-the-badge&logo=google-play&logoColor=white%22" />](https://play.google.com/store/apps/developer?id=Programmers+Gateway)
+
 
 
 
