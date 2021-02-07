@@ -59,9 +59,9 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smv1999" /> |
 </p>
 
-<p align="center">
+<h3 align="center">
  Show some ❤️ by starring some of the repositories!
-</p>
+</h3>
 
 
 ## Connect with me
