@@ -2,7 +2,7 @@
 **smv1999/smv1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- <a href="http://smv1999.github.io/"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/title_banner.png" /></a>
+ <a href="http://vaidhyanathansm.netlify.app/"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/title_banner.png" /></a>
 
 I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor's Degree in Computer Science and Engineering.
 <br>
