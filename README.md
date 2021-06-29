@@ -38,6 +38,8 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
  <img src="https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=smv1999" />
+
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Creating Custom Utility Header Files in C++](https://medium.com/theleanprogrammer/creating-custom-utility-header-files-in-c-b72a05fa05ef?source=rss-c38e7450a841------2)
