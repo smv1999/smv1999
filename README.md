@@ -13,7 +13,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 ⚙️ Filled with the potential of converting ideas into working products.\
 ✔ Interested in the field of Artificial Intelligence and Data Science.\
 🔭 I’m currently working on a Flutter project and learning about Docker\
-📫 How to reach me: vaidhyanathan.sm@gmail.com \
+📫 How to reach me: vaidhyanathan.sm@gmail.com | [Twitter](https://twitter.com/itssmv1999)\
 🌐 Visit my Website : <a href="http://vaidhyanathansm.netlify.app/">Vaidhyanathan S M</a>
 
 ### Technical Skills
