@@ -76,5 +76,3 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 ## Check out my Apps here
 
 [<img src="https://img.shields.io/badge/google%20play-%230077B5.svg?&style=for-the-badge&logo=google-play&logoColor=white%22" />](https://play.google.com/store/apps/developer?id=Programmers+Gateway)
-
-## End 
