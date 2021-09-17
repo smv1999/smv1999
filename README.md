@@ -12,7 +12,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 📱 Experienced Android Developer with 10 apps successfully published on to the [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway).\
 ⚙️ Filled with the potential of converting ideas into working products.\
 ✔ Interested in the field of Artificial Intelligence and Data Science.\
-🔭 I’m currently working on a Flutter project and learning about Docker\
+🔭 I’m currently looking for open-source projects and learning about Cybersecurity\
 📫 How to reach me: vaidhyanathan.sm@gmail.com | [Twitter](https://twitter.com/itssmv1999)\
 🌐 Visit my Website : <a href="http://vaidhyanathansm.netlify.app/">Vaidhyanathan S M</a>
 
