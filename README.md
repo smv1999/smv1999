@@ -55,7 +55,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 ## 🎤 Talks at Events / Programs
 - [Introduction to Open Source & GitHub - DCP 2021](https://www.youtube.com/watch?v=nYHTN0rwwmw)
-- [GEtting started with Mobile Application Development - CodeInception 2021](https://www.youtube.com/watch?v=JFXcZfsbsR8)
+- [Getting started with Mobile Application Development - CodeInception 2021](https://www.youtube.com/watch?v=JFXcZfsbsR8)
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=smv1999&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
