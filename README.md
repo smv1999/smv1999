@@ -53,6 +53,10 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 - [All you need to know about Pointers -Part-1](https://medium.com/nerd-for-tech/all-you-need-to-know-about-pointers-part-1-1470d2d24d78?source=rss-c38e7450a841------2)
 <!-- BLOG-POST-LIST:END -->
 
+## 🎤 Talks at Events / Programs
+- [Introduction to Open Source & GitHub - DCP 2021](https://www.youtube.com/watch?v=nYHTN0rwwmw)
+- [GEtting started with Mobile Application Development - CodeInception 2021](https://www.youtube.com/watch?v=JFXcZfsbsR8)
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=smv1999&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
