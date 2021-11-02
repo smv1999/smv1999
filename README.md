@@ -41,7 +41,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with FastAPI](https://medium.com/theleanprogrammer/getting-started-with-fastapi-cc005fb818d2?source=rss-c38e7450a841------2)
+- [Getting Started with FastAPI](https://medium.com/nerd-for-tech/getting-started-with-fastapi-cc005fb818d2?source=rss-c38e7450a841------2)
 - [Publish Your First Python Package on PyPI](https://medium.com/theleanprogrammer/publish-your-first-python-package-on-pypi-3079d409792f?source=rss-c38e7450a841------2)
 - [Creating Custom Utility Header Files in C++](https://medium.com/theleanprogrammer/creating-custom-utility-header-files-in-c-b72a05fa05ef?source=rss-c38e7450a841------2)
 - [Software Testing](https://medium.com/nerd-for-tech/software-testing-74d197498082?source=rss-c38e7450a841------2)
