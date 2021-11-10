@@ -37,7 +37,8 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
  <img src="https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=smv1999" />
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=smv1999" /> -->
+[![Vaidhyanathan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=smv1999&theme=react-dark&hide_border=true&area=true)](https://git.io/smv1999)
 
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
