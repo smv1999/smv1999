@@ -42,10 +42,6 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Programming Languages to Learn in 2022](https://www.youtube.com/watch?v=jTizyibgmX4)
-- [What is Web 3.0 ? | Evolution of Internet | Web 3.0 Explained](https://www.youtube.com/watch?v=BZBj-MvUgF4)
-- [Getting Started with Mobile App Development | Short Demo on App Deployment to Google Play Store](https://www.youtube.com/watch?v=mlgJBNFu7Vw)
-- [Dev Portal - Community Portal for Developers &lpar; Promo Video &rpar;](https://www.youtube.com/watch?v=t5dnfU5rdE4)
 - [Getting Started with FastAPI](https://medium.com/nerd-for-tech/getting-started-with-fastapi-cc005fb818d2?source=rss-c38e7450a841------2)
 - [Publish Your First Python Package on PyPI](https://medium.com/theleanprogrammer/publish-your-first-python-package-on-pypi-3079d409792f?source=rss-c38e7450a841------2)
 - [Creating Custom Utility Header Files in C++](https://medium.com/theleanprogrammer/creating-custom-utility-header-files-in-c-b72a05fa05ef?source=rss-c38e7450a841------2)
