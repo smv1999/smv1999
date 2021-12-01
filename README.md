@@ -52,6 +52,10 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 - [Software Testing](https://medium.com/nerd-for-tech/software-testing-74d197498082?source=rss-c38e7450a841------2)
 - [Software Development Life Cycle](https://medium.com/nerd-for-tech/software-development-life-cycle-cde7f069d5f3?source=rss-c38e7450a841------2)
 - [Tree Data Structure](https://medium.com/nerd-for-tech/tree-data-structure-ce938cf157e?source=rss-c38e7450a841------2)
+- [My Journey as a Computer Science Engineer](https://medium.com/fnplus/my-journey-as-a-computer-science-engineer-79348d3b6a22?source=rss-c38e7450a841------2)
+- [Linear Data Structures — Doubly Linked Lists](https://medium.com/theleanprogrammer/linear-data-structures-doubly-linked-lists-4d50d68435b0?source=rss-c38e7450a841------2)
+- [Linear Data Structures — Linked Lists](https://medium.com/theleanprogrammer/linear-data-structures-linked-lists-726fd0718a0?source=rss-c38e7450a841------2)
+- [All you need to know about Pointers-Part-2](https://medium.com/nerd-for-tech/all-you-need-to-know-about-pointers-part-2-b6153ed93fe?source=rss-c38e7450a841------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎤 Talks at Events / Programs
