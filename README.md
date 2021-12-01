@@ -4,10 +4,7 @@
 
  <a href="http://vaidhyanathansm.netlify.app/"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/title_banner.png" /></a>
 
-I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor's Degree in Computer Science and Engineering.
-<br>
-
-![](https://komarev.com/ghpvc/?username=smv1999) <br><br>
+![](https://komarev.com/ghpvc/?username=smv1999) <br>
 
 📱 Experienced Android Developer with 10 apps successfully published on to the [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway).\
 ⚙️ Filled with the potential of converting ideas into working products.\
@@ -74,15 +71,9 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 <img src="https://github-profile-trophy.vercel.app/?username=smv1999&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
-
-<p align=center >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smv1999" /> |
-</p>
-
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
 </h3>
-
 
 ## Connect with me
 
