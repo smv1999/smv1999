@@ -49,6 +49,13 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 <!-- BLOG-POST-LIST:END -->
 
 ## My YouTube Videos
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCqwT9BQSrMA3ZHcyAHtzqwA?sub_confirmation=1)
+
+</div>
+
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
