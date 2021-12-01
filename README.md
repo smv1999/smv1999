@@ -12,7 +12,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 📱 Experienced Android Developer with 10 apps successfully published on to the [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway).\
 ⚙️ Filled with the potential of converting ideas into working products.\
 ✔ Interested in the field of Artificial Intelligence and Data Science.\
-🔭 I’m currently looking for open-source projects and learning about Cybersecurity\
+🔭 I’m currently looking for open-source projects and learning about Stock Markets and DevOps\
 📫 How to reach me: vaidhyanathan.sm@gmail.com | [Twitter](https://twitter.com/itssmv1999)\
 🌐 Visit my Website : <a href="http://vaidhyanathansm.netlify.app/">Vaidhyanathan S M</a>
 
@@ -78,6 +78,7 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vaidhyanathan.sm/)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/itssmv1999)
 [<img src="https://img.shields.io/badge/polywork-%23E4405F.svg?&style=for-the-badge&logo=polywork&logoColor=white" />](https://www.polywork.com/smv1999)
+[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.polywork.com/smv1999)
 
 ## Check out my Apps here
 
