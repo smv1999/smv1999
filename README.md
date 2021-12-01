@@ -54,6 +54,10 @@ I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor'
 - [All you need to know about Pointers-Part-2](https://medium.com/nerd-for-tech/all-you-need-to-know-about-pointers-part-2-b6153ed93fe?source=rss-c38e7450a841------2)
 <!-- BLOG-POST-LIST:END -->
 
+## My YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ## 🎤 Talks at Events / Programs
 - [Introduction to Open Source & GitHub - DCP 2021](https://www.youtube.com/watch?v=nYHTN0rwwmw)
 - [Getting started with Mobile Application Development - CodeInception 2021](https://www.youtube.com/watch?v=JFXcZfsbsR8)
