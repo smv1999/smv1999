@@ -59,7 +59,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9xFAiSgww0w"><img width="140px" src="https://i.ytimg.com/vi/9xFAiSgww0w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hQftFYDqjxg"><img width="140px" src="https://i.ytimg.com/vi/hQftFYDqjxg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hQftFYDqjxg">Amazing Python Projects to Add to Your Resume &lpar;For Beginners&rpar;</a><br/>Dec 4, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9xFAiSgww0w"><img width="140px" src="https://i.ytimg.com/vi/9xFAiSgww0w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9xFAiSgww0w">Introduction to Programming - Programming Fundamentals</a><br/>Dec 1, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jTizyibgmX4"><img width="140px" src="https://i.ytimg.com/vi/jTizyibgmX4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jTizyibgmX4">Top 5 Programming Languages to Learn in 2022</a><br/>Nov 28, 2021</td></tr></table>
@@ -67,8 +69,6 @@
 <td><a href="https://www.youtube.com/watch?v=BZBj-MvUgF4">What is Web 3.0 ? | Evolution of Internet | Web 3.0 Explained</a><br/>Nov 27, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mlgJBNFu7Vw"><img width="140px" src="https://i.ytimg.com/vi/mlgJBNFu7Vw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mlgJBNFu7Vw">Getting Started with Mobile App Development | Short Demo on App Deployment to Google Play Store</a><br/>Nov 24, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=t5dnfU5rdE4"><img width="140px" src="https://i.ytimg.com/vi/t5dnfU5rdE4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t5dnfU5rdE4">Dev Portal - Community Portal for Developers &lpar; Promo Video &rpar;</a><br/>Nov 24, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ## 🎤 Talks at Events / Programs
