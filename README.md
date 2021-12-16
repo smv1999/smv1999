@@ -39,6 +39,7 @@
 
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Chrome Extension ?](https://medium.com/theleanprogrammer/how-to-build-a-chrome-extension-b13582281c61?source=rss-c38e7450a841------2)
 - [Getting Started with FastAPI](https://medium.com/nerd-for-tech/getting-started-with-fastapi-cc005fb818d2?source=rss-c38e7450a841------2)
 - [Publish Your First Python Package on PyPI](https://medium.com/theleanprogrammer/publish-your-first-python-package-on-pypi-3079d409792f?source=rss-c38e7450a841------2)
 - [Creating Custom Utility Header Files in C++](https://medium.com/theleanprogrammer/creating-custom-utility-header-files-in-c-b72a05fa05ef?source=rss-c38e7450a841------2)
@@ -48,7 +49,6 @@
 - [My Journey as a Computer Science Engineer](https://medium.com/fnplus/my-journey-as-a-computer-science-engineer-79348d3b6a22?source=rss-c38e7450a841------2)
 - [Linear Data Structures — Doubly Linked Lists](https://medium.com/theleanprogrammer/linear-data-structures-doubly-linked-lists-4d50d68435b0?source=rss-c38e7450a841------2)
 - [Linear Data Structures — Linked Lists](https://medium.com/theleanprogrammer/linear-data-structures-linked-lists-726fd0718a0?source=rss-c38e7450a841------2)
-- [All you need to know about Pointers-Part-2](https://medium.com/nerd-for-tech/all-you-need-to-know-about-pointers-part-2-b6153ed93fe?source=rss-c38e7450a841------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## My YouTube Videos
