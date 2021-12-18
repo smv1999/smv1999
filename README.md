@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=smv1999) <br>
 
-📱 Experienced Android Developer with 10 apps successfully published on to the [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway).\
+📱 Experienced Android Developer with 9 apps successfully published on to the [Google Play Store](https://play.google.com/store/apps/dev?id=6670598499208527718).\
 ⚙️ Filled with the potential of converting ideas into working products.\
 ✔ Interested in the field of Artificial Intelligence and Data Science.\
 🔭 I’m currently looking for open-source projects and learning about Stock Markets and DevOps\
