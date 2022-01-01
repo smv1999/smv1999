@@ -59,7 +59,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_RGUFiZGTlE"><img width="140px" src="https://i.ytimg.com/vi/_RGUFiZGTlE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_RGUFiZGTlE">Build APIs in 13 minutes 🔥 | FastAPI - Python Tutorial</a><br/>Dec 31, 2021</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=_RGUFiZGTlE">Build APIs in 13 minutes 🔥 | FastAPI - Python Tutorial</a><br/>Jan 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LdFqTc33hiU"><img width="140px" src="https://i.ytimg.com/vi/LdFqTc33hiU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LdFqTc33hiU">I Created a Chrome Extension to Wage a GitHub Profile War 🔥!</a><br/>Dec 29, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rwWhuK8RYxI"><img width="140px" src="https://i.ytimg.com/vi/rwWhuK8RYxI/mqdefault.jpg"></a></td>
