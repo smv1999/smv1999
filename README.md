@@ -67,7 +67,7 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=rwWhuK8RYxI"><img width="140px" src="https://i.ytimg.com/vi/rwWhuK8RYxI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rwWhuK8RYxI">Software Development Process - Explained in 7 minutes 🔥! | SDLC</a><br/>Dec 15, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4Zc7FdHAZtg"><img width="140px" src="https://i.ytimg.com/vi/4Zc7FdHAZtg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4Zc7FdHAZtg">How to Build a Chrome Extension ? | Complete Tutorial</a><br/>Dec 13, 2021</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=4Zc7FdHAZtg">Build a Chrome Extension in 20 minutes 🔥 | Complete Tutorial</a><br/>Dec 13, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ## 🎤 Talks at Events / Programs
