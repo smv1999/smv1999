@@ -58,7 +58,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_RGUFiZGTlE"><img width="140px" src="https://i.ytimg.com/vi/_RGUFiZGTlE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pKauv308fZk"><img width="140px" src="https://i.ytimg.com/vi/pKauv308fZk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pKauv308fZk">Java FAQs in Tech Interviews 🔥 | Core Java</a><br/>Jan 6, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_RGUFiZGTlE"><img width="140px" src="https://i.ytimg.com/vi/_RGUFiZGTlE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_RGUFiZGTlE">Build APIs in 13 minutes 🔥 | FastAPI - Python Tutorial</a><br/>Jan 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LdFqTc33hiU"><img width="140px" src="https://i.ytimg.com/vi/LdFqTc33hiU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LdFqTc33hiU">I Created a Chrome Extension to Wage a GitHub Profile War 🔥!</a><br/>Dec 29, 2021</td></tr></table>
@@ -66,8 +68,6 @@
 <td><a href="https://www.youtube.com/watch?v=rwWhuK8RYxI">Software Development Process - Explained in 7 minutes 🔥! | SDLC</a><br/>Dec 15, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4Zc7FdHAZtg"><img width="140px" src="https://i.ytimg.com/vi/4Zc7FdHAZtg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4Zc7FdHAZtg">How to Build a Chrome Extension ? | Complete Tutorial</a><br/>Dec 13, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-I7CKkIBM_g"><img width="140px" src="https://i.ytimg.com/vi/-I7CKkIBM_g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-I7CKkIBM_g">Flow of a Program - Algorithms, Flowcharts &amp; Pseudocode</a><br/>Dec 8, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ## 🎤 Talks at Events / Programs
