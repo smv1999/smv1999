@@ -58,7 +58,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pKauv308fZk"><img width="140px" src="https://i.ytimg.com/vi/pKauv308fZk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VG6yJqdfSI4"><img width="140px" src="https://i.ytimg.com/vi/VG6yJqdfSI4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VG6yJqdfSI4">Weekend Fun Projects : Ep. 01 | A Mini Project Using Python</a><br/>Feb 20, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pKauv308fZk"><img width="140px" src="https://i.ytimg.com/vi/pKauv308fZk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pKauv308fZk">Java FAQs in Tech Interviews 🔥 | Core Java</a><br/>Jan 6, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_RGUFiZGTlE"><img width="140px" src="https://i.ytimg.com/vi/_RGUFiZGTlE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_RGUFiZGTlE">Build APIs in 13 minutes 🔥 | FastAPI - Python Tutorial</a><br/>Jan 1, 2022</td></tr></table>
@@ -66,8 +68,6 @@
 <td><a href="https://www.youtube.com/watch?v=LdFqTc33hiU">I Created a Chrome Extension to Wage a GitHub Profile War 🔥!</a><br/>Dec 29, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rwWhuK8RYxI"><img width="140px" src="https://i.ytimg.com/vi/rwWhuK8RYxI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rwWhuK8RYxI">Software Development Process - Explained in 7 minutes 🔥! | SDLC</a><br/>Dec 15, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4Zc7FdHAZtg"><img width="140px" src="https://i.ytimg.com/vi/4Zc7FdHAZtg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4Zc7FdHAZtg">Build a Chrome Extension in 20 minutes 🔥 | Complete Tutorial</a><br/>Dec 13, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ## 🎤 Talks at Events / Programs
