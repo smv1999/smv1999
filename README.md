@@ -11,7 +11,7 @@
 ✔ Interested in the field of Artificial Intelligence and Data Science.\
 🔭 I’m currently looking for open-source projects and learning about Stock Markets and DevOps\
 📫 How to reach me: vaidhyanathan.sm@gmail.com | [Twitter](https://twitter.com/itssmv1999)\
-🌐 Visit my Website : <a target="_blank" href="http://vaidhyanathansm.netlify.app/">Vaidhyanathan S M</a>
+🌐 Visit my Website : <a target="_blank"  href="http://vaidhyanathansm.netlify.app/">Vaidhyanathan S M</a>
 
 ### Technical Skills
 
