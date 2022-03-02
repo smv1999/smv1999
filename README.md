@@ -2,7 +2,7 @@
 **smv1999/smv1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- <a href="http://vaidhyanathansm.netlify.app/"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/title_banner.png" /></a>
+<a href="http://vaidhyanathansm.netlify.app/"><img src="https://raw.githubusercontent.com/smv1999/smv1999/master/title_banner.png" /></a>
 
 ![](https://komarev.com/ghpvc/?username=smv1999) <br>
 
@@ -11,7 +11,7 @@
 ✔ Interested in the field of Artificial Intelligence and Data Science.\
 🔭 I’m currently looking for open-source projects and learning about Stock Markets and DevOps\
 📫 How to reach me: vaidhyanathan.sm@gmail.com | [Twitter](https://twitter.com/itssmv1999)\
-🌐 Visit my Website : <a href="http://vaidhyanathansm.netlify.app/">Vaidhyanathan S M</a>
+🌐 Visit my Website : <a target="_blank" href="http://vaidhyanathansm.netlify.app/">Vaidhyanathan S M</a>
 
 ### Technical Skills
 
@@ -37,7 +37,9 @@
 [![Vaidhyanathan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=smv1999&theme=react-dark&hide_border=true&area=true)](https://git.io/smv1999)
 
 ## 📝 My Tech Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [How to Build a Chrome Extension ?](https://medium.com/theleanprogrammer/how-to-build-a-chrome-extension-b13582281c61?source=rss-c38e7450a841------2)
 - [Getting Started with FastAPI](https://medium.com/nerd-for-tech/getting-started-with-fastapi-cc005fb818d2?source=rss-c38e7450a841------2)
 - [Publish Your First Python Package on PyPI](https://medium.com/theleanprogrammer/publish-your-first-python-package-on-pypi-3079d409792f?source=rss-c38e7450a841------2)
@@ -71,6 +73,7 @@
 <!-- YOUTUBE:END -->
 
 ## 🎤 Talks at Events / Programs
+
 - [Introduction to Open Source & GitHub - DCP 2021](https://www.youtube.com/watch?v=nYHTN0rwwmw)
 - [Getting started with Mobile Application Development - CodeInception 2021](https://www.youtube.com/watch?v=JFXcZfsbsR8)
 
