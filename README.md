@@ -58,7 +58,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3GAeSw15M7w"><img width="140px" src="https://i.ytimg.com/vi/3GAeSw15M7w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CLLUW32tglE"><img width="140px" src="https://i.ytimg.com/vi/CLLUW32tglE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CLLUW32tglE">I Created a Cross-Platform Shell Using Python 🔥</a><br/>Mar 5, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3GAeSw15M7w"><img width="140px" src="https://i.ytimg.com/vi/3GAeSw15M7w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3GAeSw15M7w">Problem Solving Approach - Building Logic - For Interviews</a><br/>Feb 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hE40nTfQX6Y"><img width="140px" src="https://i.ytimg.com/vi/hE40nTfQX6Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hE40nTfQX6Y">Every College Student MUST Do This 😲🔥!</a><br/>Feb 24, 2022</td></tr></table>
@@ -66,8 +68,6 @@
 <td><a href="https://www.youtube.com/watch?v=VG6yJqdfSI4">Weekend Fun Projects : Ep. 01 | Self Replicating Program | Mini Project Using Python 🔥</a><br/>Feb 20, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pKauv308fZk"><img width="140px" src="https://i.ytimg.com/vi/pKauv308fZk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pKauv308fZk">Java FAQs in Tech Interviews 🔥 | Core Java</a><br/>Jan 6, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_RGUFiZGTlE"><img width="140px" src="https://i.ytimg.com/vi/_RGUFiZGTlE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_RGUFiZGTlE">Build APIs in 13 minutes 🔥 | FastAPI - Python Tutorial</a><br/>Jan 1, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ## 🎤 Talks at Events / Programs
