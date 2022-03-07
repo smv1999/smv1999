@@ -59,7 +59,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CLLUW32tglE"><img width="140px" src="https://i.ytimg.com/vi/CLLUW32tglE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CLLUW32tglE">I Created a Cross-Platform Shell Using Python 🔥</a><br/>Mar 5, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=CLLUW32tglE">Project Showcase : A Cross-Platform Shell Using Python - Looks Cool ? 😎🔥</a><br/>Mar 5, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3GAeSw15M7w"><img width="140px" src="https://i.ytimg.com/vi/3GAeSw15M7w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3GAeSw15M7w">Problem Solving Approach - Building Logic - For Interviews</a><br/>Feb 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hE40nTfQX6Y"><img width="140px" src="https://i.ytimg.com/vi/hE40nTfQX6Y/mqdefault.jpg"></a></td>
