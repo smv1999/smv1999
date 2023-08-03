@@ -34,8 +34,6 @@
  <img src="https://github-readme-stats.vercel.app/api?username=smv1999&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
-[![Vaidhyanathan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=smv1999&theme=react-dark&hide_border=true&area=true)](https://git.io/smv1999)
-
 ## 📝 My Tech Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Build a Chrome Extension ?](https://medium.com/theleanprogrammer/how-to-build-a-chrome-extension-b13582281c61?source=rss-c38e7450a841------2)
